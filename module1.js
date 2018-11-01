@@ -1,4 +1,3 @@
-var _ = require('underscore');
 var ma = require('./module2');
 var mb = "you found me ";
 var mc = "you found me";
